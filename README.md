@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Youssef Abdullah</h1>
-<h3 align="center">A passionate [FullStack developer from Egypt</h3>
+<h3 align="center">A passionate FullStack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefabdullah08&label=Profile%20views&color=0e75b6&style=flat" alt="youssefabdullah08" /> </p>
 
 - 🔭 I’m currently working on [Hospital API](https://github.com/Hanaa-Elawady/Hospital.Web.git)
 
-- 🌱 I’m currently learning **Angular v18*&*Asp.Net Core**
+- 🌱 I’m currently learning **Angular v18* & *Asp.Net Core**
 
 - 📫 How to reach me **youssefabdullah.583002@gmail.com**
 
