@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hospital API](https://github.com/Hanaa-Elawady/Hospital.Web.git)
 
-- 🌱 I’m currently learning **Angular v18* & *Asp.Net Core**
+- 🌱 I’m currently learning **Angular v18* & *Asp.Net Core v9**
 
 - 📫 How to reach me **youssefabdullah.583002@gmail.com**
 
