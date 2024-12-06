@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Learning](https://github.com/AhmedIbrahimAli/ELearning.git)
 
-- 🌱 I’m currently learning **Angular v19**
+- 🌱 I’m currently learning **Angular v19 , .Net Core v9**
 
 - 👨‍💻 All of my projects are available at [https://youssef-s-portfolio.vercel.app/](https://youssef-s-portfolio.vercel.app/)
 
